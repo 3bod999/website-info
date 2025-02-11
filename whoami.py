@@ -57,8 +57,6 @@ def main_menu() :
     chose = """ 
     1. whois 
     2. ping website 
-    3. about me ! 
-
     """
     print(chose)
     one_input = int(input(" Enter your choice : "))
